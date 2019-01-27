@@ -7,7 +7,7 @@ export class AppConfig {
 
   /* Parse App ID  */
   public static get APP_ID(): string {
-    return 'myAppId';
+    return '736644f5';
   }
 
   /* Google Maps API Key */
